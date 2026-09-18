@@ -1,0 +1,60 @@
+# Nada pessoal ou secreto sobe para o GitHub.
+
+# Chaves, senhas e credenciais
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+credenciais*
+credentials*
+senha*
+segredo*
+secrets*
+*_token*
+*apikey*
+*api_key*
+
+# Anotações pessoais e rascunhos
+anotacoes/
+anotações/
+rascunho/
+rascunhos/
+privado/
+pessoal/
+*-privado.*
+*-pessoal.*
+NOTAS.md
+notas.md
+TODO-pessoal.md
+
+# Dados de carteira, clientes e planilhas de trabalho
+dados/
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+*.db
+*.sqlite
+
+# Lixo do sistema
+Thumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# Temporários e backups
+*.tmp
+*.temp
+*.bak
+*.log
+~$*
+
+# Editores
+.vscode/
+.idea/
+*.swp
