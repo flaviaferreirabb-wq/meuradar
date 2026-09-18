@@ -34,10 +34,23 @@ Se o briefing do dia disser "hoje não houve movimentação relevante", não fa�
 <div class="titulo-item">Título de até 7 palavras</div>
 <div class="linha-item">Uma linha de até 14 palavras, com o número quando houver.</div>
 <div class="veiculo">Nome do veículo</div>
+<div class="link">dominio.com.br/caminho…</div>
 </div></div>
 ```
 
 Título curto e direto, sem ponto final. A linha traz o fato, não a leitura. O veículo é o nome da fonte, em texto normal — o modelo põe em maiúsculas sozinho.
+
+**A linha de link, abaixo do veículo.** Ela não é clicável — imagem não clica. Serve para mostrar de onde veio e dar credibilidade a quem olha. Por isso vai encurtada, e nunca crua:
+
+1. Tire `https://` e `www.`
+2. Se o que sobrou passar de **48 caracteres**, corte no fim de um segmento do caminho e feche com `…` (reticências, um caractere só)
+3. Nunca quebre no meio de uma palavra, e nunca deixe a linha ocupar duas linhas no cartão
+
+Exemplos: `bcb.gov.br/estatisticas` · `zenvia.com/blog/novas-regras-de-cobranca-do-whatsapp…` · `bloomberglinea.com.br/negocios/venda-de-carteiras…`
+
+O link **completo e clicável** vai no `.txt` do post, nunca só na imagem.
+
+**Cuidado com o espaço.** Cada linha de link acrescenta altura. Com quatro itens o cartão fica no limite: se o rodapé sair do quadro na renderização, tire um item em vez de diminuir a fonte. Confira olhando o PNG gerado, não só o tamanho do arquivo.
 
 `{{FONTES}}` — os veículos usados, separados por ` · `, no máximo três.
 `{{DATA}}` — a data por extenso: *18 de setembro de 2026*.
