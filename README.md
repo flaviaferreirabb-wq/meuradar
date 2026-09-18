@@ -10,7 +10,7 @@ Um time de agentes pesquisa a internet todo dia sobre esse assunto e me entrega 
 
 Eu trabalho com recuperação de crédito. Uso o briefing para decidir coisa de operação: onde colocar esforço, que carteira priorizar, que abordagem e canal usar, o que cobrar dos parceiros de cobrança, como preparar o time. Não é leitura de cultura geral. É insumo para mexer no que a operação faz hoje.
 
-**Página online:**
+**Página online:** https://flaviaferreirabb-wq.github.io/meuradar/
 
 ---
 
