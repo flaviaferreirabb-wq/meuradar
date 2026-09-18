@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+  @page { size: 1200px 1200px; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 1200px; height: 1200px;
+    background: #0A2240;
+    background-image: radial-gradient(ellipse 900px 600px at 78% -8%, #16406E 0%, rgba(10,34,64,0) 62%);
+    color: #F2F5F9;
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    display: flex; flex-direction: column;
+    padding: 76px 80px 0;
+    overflow: hidden;
+  }
+
+  /* cabeçalho */
+  .topo { display: flex; justify-content: space-between; align-items: baseline; }
+  .marca {
+    font-size: 21px; font-weight: 700; letter-spacing: .22em; text-transform: uppercase;
+    color: #E9A06B;
+  }
+  .data {
+    font-size: 19px; letter-spacing: .04em; color: #8FA6C4;
+  }
+  .regua { height: 3px; background: #E9A06B; width: 96px; margin: 26px 0 0; }
+
+  /* número do dia */
+  .bloco-numero { margin-top: 52px; }
+  .rotulo {
+    font-size: 17px; font-weight: 600; letter-spacing: .18em; text-transform: uppercase;
+    color: #8FA6C4; margin-bottom: 20px;
+  }
+  .valor {
+    font-size: 108px; font-weight: 700; line-height: 1; letter-spacing: -.03em;
+    color: #FFFFFF;
+  }
+  .valor .unidade { font-size: 58px; font-weight: 600; color: #E9A06B; }
+  .contexto {
+    font-size: 30px; line-height: 1.4; color: #C9D6E6; margin-top: 22px; max-width: 30ch;
+  }
+
+  /* itens */
+  .itens {
+    margin-top: 56px; flex: 1;
+    display: flex; flex-direction: column; justify-content: center; gap: 30px;
+  }
+  .item { display: flex; gap: 22px; align-items: flex-start; }
+  .bolinha {
+    flex: none; width: 11px; height: 11px; border-radius: 50%;
+    background: #E9A06B; margin-top: 13px;
+  }
+  .texto-item { flex: 1; }
+  .titulo-item {
+    font-size: 27px; font-weight: 600; line-height: 1.3; color: #FFFFFF;
+  }
+  .linha-item {
+    font-size: 23px; line-height: 1.45; color: #A9BDD4; margin-top: 5px;
+  }
+  .veiculo {
+    font-size: 17px; letter-spacing: .1em; text-transform: uppercase;
+    color: #7E95B4; margin-top: 7px;
+  }
+
+  /* rodapé */
+  .rodape {
+    margin-top: auto; padding: 26px 0 42px;
+    border-top: 1px solid rgba(143,166,196,.28);
+    display: flex; justify-content: space-between; align-items: flex-end; gap: 32px;
+  }
+  .aviso { font-size: 18px; line-height: 1.5; color: #8FA6C4; max-width: 62ch; }
+  .aviso strong { color: #E9A06B; font-weight: 600; }
+  .assinatura {
+    font-size: 17px; letter-spacing: .1em; text-transform: uppercase;
+    color: #6F87A6; text-align: right; flex: none;
+  }
+</style>
+</head>
+<body>
+
+  <div class="topo">
+    <div class="marca">Meu Radar</div>
+    <div class="data">{{DATA}}</div>
+  </div>
+  <div class="regua"></div>
+
+  <div class="bloco-numero">
+    <div class="rotulo">{{ROTULO}}</div>
+    <div class="valor">{{VALOR}}</div>
+    <div class="contexto">{{CONTEXTO}}</div>
+  </div>
+
+  <div class="itens">
+{{ITENS}}
+  </div>
+
+  <!-- RODAPÉ — não alterar. O guarda confere se este bloco está igual ao do modelo. -->
+  <div class="rodape">
+    <div class="aviso">
+      Dados de fontes públicas, com link no texto do post. O que estiver marcado
+      <strong>(sugestão)</strong> é leitura, não fato apurado.
+    </div>
+    <div class="assinatura">{{FONTES}}</div>
+  </div>
+  <!-- FIM DO RODAPÉ -->
+
+</body>
+</html>
