@@ -141,5 +141,14 @@ Seis observáveis. Se algum falhar, corrigir antes de entregar.
 
 - `RADAR.md` — a especificação do radar. Fonte da verdade.
 - `CLAUDE.md` — este arquivo. Memória do projeto, lida a cada sessão.
-- `briefings/AAAA-MM-DD.md` — um arquivo por dia de briefing.
-- Mudança de escopo, fonte, tom ou quantidade se faz **primeiro em `RADAR.md`**, depois se reflete aqui.
+- `README.md` — a apresentação pública do projeto.
+- `briefings/AAAA-MM-DD.md` — um arquivo por dia de briefing. **É a única pasta de briefing.** Não criar `diario/` nem variantes.
+- `fontes/AAAA-MM-DD.md` — anotações brutas do pesquisador, com link por item.
+- `verificacao/AAAA-MM-DD.md` — o relatório do verificador, item por item.
+- `modelo-index.html` — o modelo da página. O rodapé dele é fixo e não se altera.
+- `index.html` — a página do dia, gerada pelo redator a partir do modelo.
+- `.claude/agents/` — o time: `pesquisador`, `verificador`, `redator`, `guarda`.
+
+O time roda nesta ordem: **pesquisador → verificador → redator → guarda**. Cada um lê o produto do anterior. O guarda é o último a falar, e a palavra dele é PODE PUBLICAR ou NÃO PUBLIQUE.
+
+Mudança de escopo, fonte, tom ou quantidade se faz **primeiro em `RADAR.md`**, depois se reflete aqui.

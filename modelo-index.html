@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITULO}}</title>
+<style>
+  :root {
+    --fundo: #fbfaf8;
+    --papel: #ffffff;
+    --texto: #1c1b19;
+    --apagado: #5f5c56;
+    --linha: #e3e0d9;
+    --marca: #8a4b2a;
+    --destaque: #f4efe7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fundo: #171614;
+      --papel: #1f1e1b;
+      --texto: #eceae5;
+      --apagado: #a6a199;
+      --linha: #34322d;
+      --marca: #d79267;
+      --destaque: #26241f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--fundo);
+    color: var(--texto);
+    font: 16px/1.65 Georgia, "Times New Roman", serif;
+  }
+  .folha {
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 4rem;
+  }
+  header {
+    border-bottom: 2px solid var(--marca);
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+  h1 {
+    font-size: 1.75rem;
+    line-height: 1.2;
+    margin: 0 0 .35rem;
+    letter-spacing: -.01em;
+  }
+  .data {
+    color: var(--apagado);
+    font-size: .875rem;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+  }
+  main h2 {
+    font-size: 1.15rem;
+    line-height: 1.35;
+    margin: 2rem 0 .5rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--linha);
+  }
+  main h2:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
+  main p { margin: 0 0 .75rem; }
+  main ul { margin: 0 0 .75rem; padding-left: 1.25rem; }
+  main li { margin-bottom: .35rem; }
+  a { color: var(--marca); text-decoration: underline; text-underline-offset: 2px; }
+  a:hover { text-decoration-thickness: 2px; }
+  blockquote {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.25rem;
+    background: var(--destaque);
+    border-left: 3px solid var(--marca);
+    border-radius: 0 4px 4px 0;
+  }
+  blockquote p:last-child { margin-bottom: 0; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 1rem; font-size: .9375rem; }
+  th, td { text-align: left; padding: .5rem .6rem; border-bottom: 1px solid var(--linha); vertical-align: top; }
+  th { font-family: system-ui, sans-serif; font-size: .8125rem; text-transform: uppercase; letter-spacing: .04em; color: var(--apagado); }
+  .rolagem { overflow-x: auto; }
+  .anteriores {
+    margin-top: 3rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--linha);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: .9375rem;
+  }
+  .anteriores h2 {
+    font-size: .8125rem;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--apagado);
+    border: 0;
+    padding: 0;
+    margin: 0 0 .75rem;
+  }
+  .anteriores ul { list-style: none; padding: 0; margin: 0; }
+  .anteriores li { margin-bottom: .4rem; }
+  footer {
+    margin-top: 3rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--linha);
+    color: var(--apagado);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: .8125rem;
+    line-height: 1.6;
+  }
+  footer p { margin: 0 0 .4rem; }
+</style>
+</head>
+<body>
+<div class="folha">
+
+  <header>
+    <h1>{{TITULO}}</h1>
+    <p class="data">{{DATA}}</p>
+  </header>
+
+  <main>
+{{BRIEFING}}
+  </main>
+
+  <nav class="anteriores">
+    <h2>Dias anteriores</h2>
+{{ANTERIORES}}
+  </nav>
+
+  <!-- RODAPÉ — não alterar. O guarda confere se este bloco está igual ao do modelo. -->
+  <footer>
+    <p>Meu Radar — recuperação de crédito, inadimplência e cobrança no mundo digital.</p>
+    <p>Todo item traz o link da fonte. O que está marcado <strong>(sugestão)</strong> é leitura, não fato apurado.</p>
+    <p>Briefing gerado automaticamente a partir de fontes públicas. As regras estão em <a href="RADAR.md">RADAR.md</a>.</p>
+  </footer>
+  <!-- FIM DO RODAPÉ -->
+
+</div>
+</body>
+</html>
