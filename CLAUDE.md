@@ -100,6 +100,25 @@ A marca `(sugestão)` é obrigatória e não pode ser omitida.
 - O Itaú aparece como **assunto de pesquisa** escolhido por ela — não como vínculo empregatício.
 - Nunca usar o e-mail dela em busca, requisição ou qualquer serviço externo.
 
+### Este repositório é público
+
+Está publicado em `github.com/flaviaferreirabb-wq/meuradar` e na página `flaviaferreirabb-wq.github.io/meuradar`. Tudo o que entra em `briefings/` vira página na internet, e o Git guarda histórico: **apagar depois não resolve**.
+
+Daí a regra que governa o que pode ser escrito num briefing:
+
+> **O briefing só recebe o que veio de fora.** Notícia pública, dado de fonte identificável, com link. Nada que venha de dentro da operação da leitora.
+
+Nunca escrever num briefing, mesmo que ela mencione na conversa:
+- Taxa de recuperação, ticket de acordo, meta, volume ou resultado da carteira dela
+- Nome de parceiro, fornecedor ou prestador contratado
+- Nome de cliente ou devedor, e qualquer dado de pessoa
+- Preço, contrato, decisão interna, número de equipe
+- Qualquer coisa que ela tenha contado e que não esteja publicada com fonte
+
+Se um número interno for útil para a leitura do dia, referir-se a ele sem revelá-lo — "comparar com o ticket da sua carteira" —, nunca escrevê-lo. Na dúvida sobre um item, deixar de fora e avisar a ela: é ela quem decide o que é público.
+
+Vale para qualquer arquivo versionado, não só os briefings.
+
 ---
 
 ## 7. Checagem antes de entregar
@@ -112,6 +131,7 @@ Seis observáveis. Se algum falhar, corrigir antes de entregar.
 - [ ] Cabe em uma página
 - [ ] Fato e opinião separados — toda leitura marcada com `(sugestão)`
 - [ ] A primeira linha responde em cinco segundos: tem número com direção e tem ação
+- [ ] **Nada de dentro da operação.** Nenhum número, nome ou decisão da leitora — o repositório é público
 
 **Teste final:** depois de ler, dá para dizer em voz alta uma coisa a olhar na operação hoje? Se não, o briefing não cumpriu a função.
 
