@@ -145,10 +145,16 @@ Seis observáveis. Se algum falhar, corrigir antes de entregar.
 - `briefings/AAAA-MM-DD.md` — um arquivo por dia de briefing. **É a única pasta de briefing.** Não criar `diario/` nem variantes.
 - `fontes/AAAA-MM-DD.md` — anotações brutas do pesquisador, com link por item.
 - `verificacao/AAAA-MM-DD.md` — o relatório do verificador, item por item.
+- `guarda/AAAA-MM-DD.md` — o relatório do guarda, com as seis conferências e o veredito. **Fica no repositório mesmo quando o veredito é NÃO PUBLIQUE**, e mesmo quando a dona autoriza publicar por cima: o apontamento tem de ficar visível ao lado do que foi publicado.
+- `cartaz/AAAA-MM-DD.png` e `.txt` — a imagem do post e o texto com os links.
 - `modelo-index.html` — o modelo da página. O rodapé dele é fixo e não se altera.
 - `index.html` — a página do dia, gerada pelo redator a partir do modelo.
-- `.claude/agents/` — o time: `pesquisador`, `verificador`, `redator`, `guarda`.
+- `modelo-cartaz.html` — o modelo do cartão para post. O rodapé dele também é fixo.
+- `.claude/agents/` — o time: `pesquisador`, `verificador`, `redator`, `guarda`, `cartaz`.
+- `.claude/skills/radar/SKILL.md` — a Skill que coordena o time. Aciona-se com `/radar`.
 
-O time roda nesta ordem: **pesquisador → verificador → redator → guarda**. Cada um lê o produto do anterior. O guarda é o último a falar, e a palavra dele é PODE PUBLICAR ou NÃO PUBLIQUE.
+O time roda nesta ordem: **pesquisador → verificador → redator → guarda → cartaz**. Cada um lê o produto do anterior. O guarda fala antes do cartaz, e a palavra dele é PODE PUBLICAR ou NÃO PUBLIQUE — sem PODE PUBLICAR não há cartaz e não há commit.
+
+A dona pode autorizar a publicação por cima de um NÃO PUBLIQUE. Quando isso acontecer, o commit diz que aconteceu e por quê. Nenhum agente toma essa decisão sozinho.
 
 Mudança de escopo, fonte, tom ou quantidade se faz **primeiro em `RADAR.md`**, depois se reflete aqui.
