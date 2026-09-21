@@ -1,0 +1,18 @@
+A inadimplência do crédito no Brasil chegou a 4,9% em julho — o maior nível da série histórica do Banco Central, iniciada em 2011. Mesmo assim, o ritmo de novos negativados desacelerou em agosto, segundo a Serasa.
+
+1. A Serasa fechou 19,7 milhões de acordos de renegociação de dívidas entre maio e agosto, alta de 36% sobre o mesmo período de 2025. Segundo Aline Vieira, especialista da Serasa, a desaceleração da inadimplência caminha lado a lado com o aumento dos acordos — leitura da própria empresa, não um fato apurado à parte.
+https://wscom.com.br/economia/2026/09/18/crescimento-da-inadimplencia-desacelera-e-registra-menor-nivel-do-ano-em-agosto-aponta-serasa/
+
+2. O mercado de venda de carteiras inadimplentes (cessão de dívidas em atraso para terceiros) deve movimentar R$ 40 bilhões em 2026, alta de 17,6% sobre 2025, segundo a Recovery, empresa de recuperação de crédito do grupo Itaú.
+https://gazetamercantil.com/empresas-ampliam-venda-dividas-vencidas-credito-caro
+
+3. A partir de 1º de outubro, a Meta amplia a cobrança por mensagens de serviço enviadas por empresas via WhatsApp Business. Um estudo com 600 marcas mostra que conversas conduzidas por inteligência artificial custam cerca de 4 vezes menos que as feitas por atendentes humanos.
+https://docmanagement.com.br/09/08/2026/nova-cobranca-do-whatsapp-leva-marcas-a-buscarem-conversas-mais-eficientes-com-apoio-de-agentes-de-ia/
+
+O número do dia vem do Banco Central (divulgado em 28/08/2026, dado de referência julho/2026):
+https://www.suno.com.br/noticias/inadimplencia-recorde-julho-2026-banco-central-go/
+
+Todos os dados são de fontes públicas, com data e link. O briefing completo fica em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
