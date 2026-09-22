@@ -1,0 +1,18 @@
+A inadimplência do crédito no Brasil chegou a 4,9% em julho — novo recorde da série do Banco Central iniciada em 2011. No mesmo mês, o juro do rotativo do cartão (a linha cobrada quando a fatura não é paga integralmente) recuou para 436,2% ao ano, ante 442,4% em junho.
+
+1. A Serasa Experian identificou 8,92 milhões de consumidores negativados ao mesmo tempo em bancos e fintechs em julho — 16,5% do total de inadimplentes financeiros, alta de 355% desde dezembro de 2019. Esse grupo deve em média R$ 7.963, valor bem acima de quem deve só a banco ou só a fintech.
+https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/quase-9-milhoes-de-consumidores-tem-dividas-negativadas-em-bancos-e-fintechs-ao-mesmo-tempo-revela-serasa-experian/
+
+2. O mercado de venda de carteiras de crédito inadimplente (quando uma empresa vende a dívida em atraso para outra recuperar) deve crescer cerca de 20% em 2026 e somar R$ 40 bilhões, ante R$ 34 bilhões em 2025 — o segundo maior volume da série histórica. Fonte de 27/08/2026.
+https://www.trendsce.com.br/2026/08/27/venda-de-carteiras-inadimplentes-deve-movimentar-r-40-bi-em-2026/
+
+3. A Vivo inicia em setembro um piloto mais amplo de agentes de inteligência artificial atendendo ligações de call center diretamente, sem passar primeiro pelo atendente humano. Segundo o CEO Christian Gebara, em declaração ao veículo, "muitas ligações serão respondidas por agentes de IA" — fonte de 25/08/2026.
+https://www.televendasecobranca.com.br/call-center/vivo-tera-agentes-de-ia-atendendo-chamadas-no-call-center-182345/
+
+O número do dia vem do Banco Central, via Let's Money (divulgado em 31/08/2026, dado de referência julho/2026):
+https://www.letsmoney.com.br/noticias/inadimplencia-recorde-rotativo-436-bc-julho-2026/
+
+Todos os dados são de fontes públicas, com data e link. O briefing completo fica em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
