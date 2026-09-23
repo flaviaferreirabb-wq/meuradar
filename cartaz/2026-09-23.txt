@@ -1,0 +1,21 @@
+O prazo médio de atraso das dívidas das famílias subiu para 65 dias em agosto de 2026, interrompendo três meses seguidos de melhora, segundo o Peic/CNC (Pesquisa de Endividamento e Inadimplência do Consumidor). No mesmo mês, a Serasa registrou recorde de negativados no país.
+
+1. A Serasa Experian registrou 83,9 milhões de pessoas físicas inadimplentes em agosto de 2026, recorde histórico, com dívidas somando R$ 586,5 bilhões — média de R$ 6.987,23 por CPF. A recuperação de crédito (proporção de dívidas em atraso que voltam a ser pagas) ficou em 53,7% no mês, abaixo dos 57,2% no acumulado de 12 meses. Fonte de 09/09/2026.
+https://www.serasaexperian.com.br/conteudos/boletim-economico-de-setembro-2026/
+
+2. Entre maio e agosto de 2026, a Serasa fechou 19,7 milhões de acordos de renegociação no Brasil, alta de 36% sobre o mesmo período de 2025; em São Paulo foram 5,3 milhões de acordos, alta de 27%. Fonte de 18/09/2026, atualizada em 19/09/2026.
+https://www.letsmoney.com.br/noticias/serasa-negociacao-dividas-sp/
+
+3. A partir de 1º de outubro de 2026, a Meta passa a cobrar também pelas mensagens de serviço (respostas de atendentes humanos ou de IA de terceiros) e pelas de utilidade enviadas na janela de 24 horas após contato do cliente no WhatsApp Business. Fonte de 10/08/2026 — não é notícia do dia, mas o prazo está a poucos dias.
+https://consumidormoderno.com.br/whatsapp-cobranca-atendimento-empresas/
+
+4. O mercado de venda de carteiras de crédito inadimplente deve fechar 2026 em R$ 40 bilhões, alta de cerca de 20% sobre os R$ 34 bilhões de 2025, segundo a Recovery, empresa de recuperação de crédito do grupo Itaú. Fonte de 27/08/2026 — não é notícia do dia, é a matéria mais recente sobre o tema.
+https://www.trendsce.com.br/2026/08/27/venda-de-carteiras-inadimplentes-deve-movimentar-r-40-bi-em-2026/
+
+O número do dia vem da pesquisa Peic/CNC, via Tribuna do Paraná (divulgado em 10/09/2026, dado de referência agosto/2026):
+https://www.tribunapr.com.br/noticias/economia/endividamento-atinge-82-das-familias-brasileiras-em-agosto/
+
+Todos os dados são de fontes públicas, com data e link. O briefing completo fica em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
