@@ -1,0 +1,18 @@
+O Brasil chegou a 83,9 milhões de inadimplentes em julho de 2026, novo recorde da série e 51% da população adulta, segundo a Serasa Experian. A dívida soma R$ 586,5 bilhões, média de R$ 6.987,23 por CPF (o número que identifica uma pessoa junto ao Fisco).
+
+1. A partir de 1º de outubro de 2026, a Meta passa a cobrar por mensagem de serviço enviada dentro da janela de atendimento de 24 horas do WhatsApp Business, interação hoje sem custo. Uma jornada que hoje gera 3 cobranças passará a gerar 5. Fonte de 10/08/2026 (mudança entra em vigor em 1º/10/2026).
+https://consumidormoderno.com.br/whatsapp-cobranca-atendimento-empresas/
+
+2. A Recovery, empresa de recuperação de crédito do grupo Itaú, projeta que a venda de carteiras inadimplentes (lotes de dívidas vendidos por bancos e empresas a terceiros que assumem a cobrança) movimente R$ 40 bilhões em 2026, alta de cerca de 20% sobre os R$ 34 bilhões de 2025. Fonte de 27/08/2026.
+https://www.trendsce.com.br/2026/08/27/venda-de-carteiras-inadimplentes-deve-movimentar-r-40-bi-em-2026/
+
+3. O CNJ fechou acordo com Caixa, Banco do Brasil, Itaú, Nubank e XP para implantar o Novo Sisbajud, sistema pelo qual a Justiça localiza e bloqueia bens de devedores dentro de um processo, com resposta bancária no mesmo dia útil da ordem e bloqueios de até um ano. Não é bloqueio automático por inadimplência — só é acionado por ordem judicial dentro de um processo. Acordo assinado em maio; o assunto voltou a circular em vários veículos nesta semana, sem fato novo confirmado. Fonte original de 26/05/2026.
+https://site.mppr.mp.br/civel/Noticia/CNJ-e-bancos-firmam-acordo-para-implantar-Novo-Sisbajud-e-acelerar-bloqueios
+
+4. O governo estuda comprar diretamente dos credores, em leilão, dívidas antigas da pandemia de Covid-19, com desconto de 95% a 97% do valor de face — ainda sem prazo definido nem desenho fechado. A avaliação vem depois de a inadimplência dentro dos acordos já parcelados do Novo Desenrola Brasil chegar a 30,34%, segundo o Fundo Garantidor de Operações (FGO). Fonte de 22/09/2026.
+https://meutudo.com.br/blog/noticias/2026/09/22/governo-avalia-nova-etapa-do-desenrola-para-quitar-dividas-antigas-entenda-a-proposta/
+
+Todos os dados são de fontes públicas, com data e link. O briefing completo fica em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
