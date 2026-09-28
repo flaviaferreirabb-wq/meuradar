@@ -1,0 +1,18 @@
+O rotativo do cartão de crédito — a modalidade cobrada quando a fatura não é paga à vista — chegou a 65% de inadimplência (atraso acima de 90 dias) em setembro, o maior nível desde o início da série, em 2011, segundo o presidente do Banco Central, Gabriel Galípolo.
+
+1. A partir de 1º de outubro de 2026, a Meta passa a cobrar por mensagens de serviço (respostas a uma demanda do consumidor) e de utilidade dentro da janela de atendimento de 24 horas do WhatsApp Business — vale tanto para atendimento humano quanto por IA. As tarifas ainda não haviam sido divulgadas na data da matéria. Fonte de 10/08/2026 (mudança entra em vigor em 1º/10/2026).
+https://consumidormoderno.com.br/whatsapp-cobranca-atendimento-empresas/
+
+2. No Relatório de Política Monetária de setembro, o Banco Central afirma que cerca de 40% do aumento recente da inadimplência no Sistema Financeiro Nacional vem da Resolução CMN 4.966, que mudou o critério de provisionamento (valor que os bancos reservam para cobrir prejuízo) de "perdas incorridas" para "perda esperada" — um efeito contábil, não necessariamente atraso novo. Fonte de 24/09/2026.
+https://br.bossanews.com/bc-diz-que-40-do-aumento-da-inadimplencia-se-deve-a-nova-norma-contabil/
+
+3. O Banco Carrefour passou a analisar mais de 1 milhão de ligações de cobrança por mês com uma ferramenta de IA (Strategy Big Data, da Konecta), que avalia conteúdo, ritmo, silêncios e técnica de conversação dos operadores. Em 90 dias, apurou impacto financeiro de R$ 846 mil, com o índice de qualidade das ligações subindo de 90,5 para 91,7 pontos. Fonte de 25/09/2026.
+https://consumidormoderno.com.br/banco-carrefour-atinge-impacto-de-r-846-mil-em-90-dias-com-ia-na-cobranca/
+
+4. A Pesquisa de Endividamento e Inadimplência do Consumidor (Peic, levantamento mensal da CNC) mostra que, entre as famílias de renda até 3 salários mínimos, o atraso subiu de 38,5% para 38,8% em agosto — sétimo mês seguido no maior nível da série entre as famílias endividadas em geral (82%). Fonte de 10/09/2026 (dado de agosto/2026).
+https://portaldocomercio.org.br/economia/cnc-mais-endividadas-do-que-a-media-familias-de-menor-renda-lideram-avanco-na-inadimplencia-em-agosto/
+
+Todos os dados são de fontes públicas, com data e link. O briefing completo fica em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
