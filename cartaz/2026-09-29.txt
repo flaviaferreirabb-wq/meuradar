@@ -1,0 +1,19 @@
+O Serasa registrou 83,98 milhões de negativados em agosto de 2026, alta de apenas 0,06% sobre julho — a menor variação mensal do ano. No mesmo período, os acordos de renegociação de dívida subiram 36% no quadrimestre.
+
+1. A partir de 1º de outubro de 2026, toda mensagem enviada por empresa dentro da janela de atendimento de 24 horas do WhatsApp Business passa a ser cobrada — inclusive a "mensagem de serviço" (resposta a uma demanda já aberta pelo consumidor), até agora tratada de forma diferente. Uma fonte de agosto aponta valor de R$ 0,035 por mensagem; uma fonte mais recente, de 23/09, confirma a mudança de regra mas remete à tabela oficial da Meta, sem repetir esse valor.
+https://gptmaker.ai/nova-cobranca-do-whatsapp-em-2026/
+https://docmanagement.com.br/09/23/2026/whatsapp-tera-nova-cobranca-em-outubro-e-pode-mudar-a-forma-como-empresas-atendem-clientes/
+
+2. A "Vic", assistente de inteligência artificial generativa da BBTS (subsidiária de tecnologia do Banco do Brasil), negocia dívidas e fecha acordos com até 100 mil clientes por dia, com efetividade 10 vezes maior que ferramentas tradicionais e R$ 73 milhões já movimentados em negociações. Fonte de 28/09/2026.
+https://consumidormoderno.com.br/banco-do-brasil-efetividade-negociacao-dividas/
+
+3. O Conselho Monetário Nacional (CMN) passou a proibir que fundos de investimento em direitos creditórios (FIDCs) comprem créditos de ações judiciais ou arbitragens enquanto o valor depender de decisão judicial. A CVM apurou R$ 35,2 bilhões de fundos expostos a esse tipo de crédito em julho de 2026. A restrição a novas compras vale a partir de 13/10/2026. Fonte de 24/09/2026.
+https://www.acessa.com/economia/2026/09/340668-cmn-endurece-regras-para-fundos-comprarem-creditos-judiciais.html
+
+4. O Tema 1.264 dos recursos repetitivos do STJ, que discute se dívida prescrita pode continuar em cobrança extrajudicial e em plataformas de negociação, segue sem julgamento desde que o relator pediu vista, em junho — sem data marcada para retomada. Fonte de 10/06/2026 (retomada porque o tema segue em aberto).
+https://www.migalhas.com.br/quentes/457890/stj-suspende-analise-sobre-cobranca-extrajudicial-de-divida-prescrita
+
+Todos os dados são de fontes públicas, com data e link. O briefing completo fica em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
