@@ -68,10 +68,8 @@
   .rodape {
     margin-top: auto; padding: 26px 0 42px;
     border-top: 1px solid rgba(143,166,196,.28);
-    display: flex; justify-content: space-between; align-items: flex-end; gap: 32px;
+    display: flex; justify-content: flex-end; align-items: flex-end; gap: 32px;
   }
-  .aviso { font-size: 18px; line-height: 1.5; color: #8FA6C4; max-width: 62ch; }
-  .aviso strong { color: #E9A06B; font-weight: 600; }
   .assinatura {
     font-size: 17px; letter-spacing: .1em; text-transform: uppercase;
     color: #6F87A6; text-align: right; flex: none;
@@ -81,7 +79,7 @@
 <body>
 
   <div class="topo">
-    <div class="marca">Meu Radar</div>
+    <div class="marca">FCRUZ - MEU RADAR</div>
     <div class="data">{{DATA}}</div>
   </div>
   <div class="regua"></div>
@@ -98,10 +96,6 @@
 
   <!-- RODAPÉ — não alterar. O guarda confere se este bloco está igual ao do modelo. -->
   <div class="rodape">
-    <div class="aviso">
-      Dados de fontes públicas, com link no texto do post. O que estiver marcado
-      <strong>(sugestão)</strong> é leitura, não fato apurado.
-    </div>
     <div class="assinatura">{{FONTES}}</div>
   </div>
   <!-- FIM DO RODAPÉ -->
