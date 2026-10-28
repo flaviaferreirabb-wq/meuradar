@@ -1,0 +1,18 @@
+A inadimplência do crédito no Brasil ficou em 5,0% em agosto — segundo mês seguido de alta, com a pessoa física subindo mais que a pessoa jurídica. É o número do dia no radar de cobrança.
+
+O Decreto 13.135/2026 muda a regra do SAC (Serviço de Atendimento ao Consumidor): a partir de 02/11, atendimento humano por telefone e canais eletrônicos é obrigatório das 8h às 20h todos os dias, o consumidor pode pedir humano a qualquer momento, e cobrança indevida precisa ser suspensa em até 48 horas. A regra vale também para crédito e cobrança.
+https://www.agazeta.com.br/economia/governo-torna-obrigatorio-atendimento-humano-no-sac-confira-novas-regras-1026 (decreto confirmado também pelo Teletime, 13/10/2026 — sem link próprio disponível até o fechamento)
+
+O WhatsApp Business passou a cobrar por cada mensagem de serviço enviada dentro da janela de atendimento (as 24h em que a empresa responde ao cliente sem custo extra), segundo o Consumidor Moderno. A data de início apontada pela matéria (1º de outubro) é posterior à publicação do próprio artigo (10/08/2026) — ponto de atenção sinalizado pelo guarda do radar antes da publicação, que recomendamos levar em conta ao usar o dado.
+https://consumidormoderno.com.br/whatsapp-cobranca-atendimento-empresas/
+
+A inadimplência da pessoa física chegou a 6,0% no crédito total e a 8,0% no crédito livre (linhas sem direcionamento obrigatório, como cartão e cheque especial) em agosto, segundo o Banco Central. O endividamento das famílias ficou em 49,9% em julho.
+https://www.bcb.gov.br/content/estatisticas/hist_estatisticasmonetariascredito/202609_Texto_de_estatisticas_monetarias_e_de_credito.pdf
+
+No programa "Cobrança 5.0" do Banco BV, agentes de IA por voz e texto já respondem por 85% dos atendimentos na faixa de 5 a 15 dias de atraso, ante 10% seis meses antes — taxa de recuperação de 48%, acima da média histórica de 44% dos operadores humanos. Matéria de 31/07/2026, retomada aqui porque os números seguem de referência.
+https://consumidormoderno.com.br/cobranca-5-0-banco-bv-ia/
+
+Dados de A Gazeta, Consumidor Moderno e Banco Central. Briefing completo do dia, com o apontamento do guarda sobre os dois itens acima, em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
