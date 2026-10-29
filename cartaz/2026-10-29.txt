@@ -1,0 +1,13 @@
+A consultoria Deloitte projeta que a venda de carteiras de dívida vencida a investidores suba 73% em 2026, para R$ 52,3 bilhões — quase o dobro da alta de cerca de 20% que a Recovery, do Itaú, projeta para o mesmo mercado. É o número do dia no radar de cobrança.
+
+O estudo da Deloitte ouviu 63 participantes do mercado (37 vendedores e 26 compradores de carteira) entre novembro/2025 e janeiro/2026. Desde março/2026, a Resolução CVM 240 dispensa aprovação judicial para a cessão de certos recebíveis já vencidos, o que facilita a venda desse tipo de crédito até por empresas em recuperação judicial.
+https://forbes.com.br/forbes-money/2026/07/dividas-empresas-fundos-brasil/ (Forbes Brasil, 13/07/2026, citando estudo da Deloitte)
+
+A própria Serasa publica dois números diferentes de negativados para agosto de 2026: o Boletim Econômico de outubro registra 84,0 milhões de consumidores com dívida em atraso, enquanto o Mapa da Inadimplência da Serasa, numa reportagem de setembro, registra 83,98 milhões para o mesmo mês. São levantamentos diferentes da mesma empresa, e os números não são intercambiáveis.
+https://www.serasaexperian.com.br/conteudos/boletim-economico-de-outubro-2026 (Serasa Experian, 15/10/2026, dados de agosto/2026)
+https://mais.opovo.com.br/jornal/farol/2026/09/19/com-8398-milhoes-negativados-inadimplencia-no-br-alcanca-menor-patamar-de-crescimento-do-ano-aponta-serasa.html (O Povo/Farol, 19/09/2026, citando o Mapa da Inadimplência da Serasa, dados de agosto/2026)
+
+Dados de Forbes Brasil (citando Deloitte), Serasa Experian e O Povo/Farol (citando Serasa Experian). Briefing completo do dia em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
