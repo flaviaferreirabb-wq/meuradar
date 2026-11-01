@@ -1,0 +1,15 @@
+O Brasil chegou a 84 milhões de consumidores negativados em agosto — 51% da população adulta. Entre as empresas, a inadimplência de CNPJ subiu 14,3% em 12 meses, puxada pelas micro e pequenas empresas.
+
+A Recovery, braço de recuperação de crédito do Itaú, projeta R$ 40 bilhões em compra de carteiras inadimplentes (dívidas já baixadas pelo banco original e revendidas a empresas de cobrança) em 2026 — alta de cerca de 20% sobre 2025. Segundo o CEO da empresa, o pagamento à vista caiu de 35% para 10% das negociações, e o parcelamento já responde por 90% dos acordos.
+https://www.bloomberglinea.com.br/negocios/venda-de-carteiras-inadimplentes-deve-chegar-a-r-40-bi-em-2026-diz-recovery-do-itau/ (Bloomberg Línea, 26/08/2026)
+
+O boletim de outubro da Serasa Experian, com dados de agosto/2026, mostra 84 milhões de negativados no país (51% da população adulta) e 9,3 milhões de CNPJs inadimplentes — alta de 14,3% em 12 meses, sendo 8,8 milhões micro e pequenas empresas.
+https://www.serasaexperian.com.br/conteudos/boletim-economico-de-outubro-2026 (Serasa Experian, 15/10/2026)
+
+O Banco Central aprovou três resoluções contra o superendividamento: painel que mostra ao cliente as dívidas que já tem no banco antes de um novo contrato, bloqueio de propaganda de crédito para quem está em maior risco, e intervalo mínimo de 24 horas entre a habilitação de ofertas via Pix e a primeira proposta. As regras entram em vigor entre março e julho de 2027.
+https://acritica.net/economia/bancos-terao-de-permitir-bloqueio-de-ofertas-de-credito-e-criar-painel-de-dividas/ (A Crítica, 23/10/2026)
+
+Dados da Serasa Experian, Bloomberg Línea e A Crítica (com base em resoluções do Banco Central). Briefing completo do dia em:
+https://flaviaferreirabb-wq.github.io/meuradar/
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
