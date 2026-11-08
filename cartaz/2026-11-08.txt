@@ -1,0 +1,11 @@
+Quase 9 milhões de brasileiros já devem a bancos tradicionais e a fintechs ao mesmo tempo: 8,92 milhões de consumidores estavam negativados nos dois tipos de credor em julho de 2026, segundo a Serasa Experian — eram 1,96 milhão em dezembro de 2019.
+
+Esse grupo com dívida dupla acumula em média 4,18 dívidas financeiras e ticket médio de R$ 7.963, acima dos R$ 5.753 de quem deve só a bancos tradicionais. [Serasa Experian, 17/09/2026, dado referente a julho/2026]: https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/quase-9-milhoes-de-consumidores-tem-dividas-negativadas-em-bancos-e-fintechs-ao-mesmo-tempo-revela-serasa-experian/
+
+A fintech BYX projeta, em estimativa própria, um mercado de R$ 138 bilhões para um modelo que oferece crédito consignado (parcela descontada direto da folha, do INSS ou do salário do servidor) dentro do processo de cobrança, para quitar dívidas mais caras. Segundo a empresa, 27,3 milhões de negativados CLT, servidores ou beneficiários do INSS teriam esse perfil. [Capital Aberto, 01/10/2026]: https://capitalaberto.com.br/economia-e-financas/2026/10/cobranca-consignavel-abre-mercado-de-r-138-bilhoes
+
+A Recovery, empresa de recuperação de crédito do grupo Itaú, registrou queda de 30% nos incidentes críticos de TI que travavam fechamento de acordo, segundo dados divulgados pela própria empresa, após adotar monitoramento de infraestrutura. [Baguete, 14/08/2025, matéria de mais de um ano atrás, trazida por reunir números de escala sem equivalente mais recente localizado]: https://www.baguete.com.br/noticias/recovery-do-itau-monitora-ambiente-com-think-it
+
+Dados do Radar de Cobrança de hoje, com base em Serasa Experian, Capital Aberto e Baguete.
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
