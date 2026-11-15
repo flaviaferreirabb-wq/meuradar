@@ -1,0 +1,13 @@
+A inadimplência das famílias caiu para 29,3% em outubro de 2026, segunda queda seguida (era 29,6% em setembro), segundo a Peic/CNC (Pesquisa de Endividamento e Inadimplência do Consumidor, feita pela Confederação Nacional do Comércio).
+
+Desde 1º de outubro de 2026, a Meta passou a cobrar, mensagem a mensagem, as conversas de serviço enviadas pela Plataforma do WhatsApp Business (a versão API usada por empresas para disparar mensagens em escala) — até então essas interações eram gratuitas. [Consumidor Moderno, 02/10/2026]: https://consumidormoderno.com.br/whatsapp-muda-identidade-e-cobranca-o-que-muda-no-cx/
+
+O Feirão Limpa Nome da Serasa (campanha de renegociação de dívidas) está no ar desde 3 de novembro até 6 de dezembro de 2026, com cerca de 3,3 mil empresas parceiras e desconto de até 99% sobre o valor da dívida. [Correio24horas, citando Serasa, 02/11/2026]: https://www.correio24horas.com.br/brasil/com-recorde-de-842-milhoes-de-inadimplentes-brasil-tera-feirao-com-descontos-de-ate-99-em-dividas-1126
+
+O Banco Central publicou em 23/10/2026 novas regras de oferta de crédito com vigência a partir de 2027: painel que mostra o percentual de renda comprometida com alerta acima de 40%, consentimento prévio e trava de 24 horas para ofertas de crédito feitas durante transferências via Pix, e bloqueio simples de propaganda de crédito. [MeuTudo, 26/10/2026, vigência a partir de 2027]: https://meutudo.com.br/blog/noticias/2026/10/26/banco-central-aprova-mudancas-na-oferta-de-emprestimos-para-diferentes-publicos-entenda/
+
+O Mapa da Inadimplência da Serasa mostra 84,2 milhões de brasileiros inadimplentes em setembro de 2026, novo recorde da série, com dívida média de R$ 7.093,83 por pessoa; pela primeira vez as financeiras superaram contas de água, luz e gás como segundo maior credor. [Mercado&Consumo, citando Serasa, 02/11/2026]: https://mercadoeconsumo.com.br/02/11/2026/economia/inadimplencia-atinge-recorde-de-842-milhoes-de-brasileiros/
+
+Dados do Radar de Cobrança de hoje, com base em Peic/CNC, Consumidor Moderno, Serasa (via Correio24horas e Mercado&Consumo) e Banco Central (via MeuTudo).
+
+#recuperacaodecredito #cobranca #inadimplencia #credito
